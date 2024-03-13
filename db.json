@@ -1,0 +1,319 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "1984",
+      "author": "George Orwell",
+      "image": "https://picsum.photos/900",
+      "year": 1949,
+      "page": 328,
+      "description": "1984 is a dystopian social science fiction novel by George Orwell. It was published in 1949 and is set in a dystopian future where critical thought is suppressed under a totalitarian regime."
+    },
+    {
+      "id": 2,
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "image": "https://picsum.photos/901",
+      "year": 1960,
+      "page": 281,
+      "description": "To Kill a Mockingbird is a novel by Harper Lee published in 1960. It was immediately successful, winning the Pulitzer Prize, and has become a classic of modern American literature."
+    },
+    {
+      "id": 3,
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "image": "https://picsum.photos/902",
+      "year": 1925,
+      "page": 180,
+      "description": "The Great Gatsby is a novel by American author F. Scott Fitzgerald. It was first published in 1925 and is set in the summer of 1922 in the fictional town of West Egg."
+    },
+    {
+      "id": 4,
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "image": "https://picsum.photos/903",
+      "year": 1813,
+      "page": 279,
+      "description": "Pride and Prejudice is a romantic novel by Jane Austen published in 1813. It is one of the most popular novels in English literature and has sold millions of copies."
+    },
+    {
+      "id": 5,
+      "title": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "image": "https://picsum.photos/904",
+      "year": 1951,
+      "page": 277,
+      "description": "The Catcher in the Rye is a novel by J.D. Salinger, first published in 1951. It has been translated into almost all of the world's major languages."
+    },
+    {
+      "id": 6,
+      "title": "Jane Eyre",
+      "author": "Charlotte Brontë",
+      "image": "https://picsum.photos/905",
+      "year": 1847,
+      "page": 388,
+      "description": "Jane Eyre is a novel by English writer Charlotte Brontë, published under the pen name 'Currer Bell', on 16 October 1847. It is considered a classic of English literature."
+    },
+    {
+      "id": 7,
+      "title": "Frankenstein",
+      "author": "Mary Shelley",
+      "image": "https://picsum.photos/906",
+      "year": 1818,
+      "page": 280,
+      "description": "Frankenstein; or, The Modern Prometheus is a novel written by English author Mary Shelley that tells the story of Victor Frankenstein, a young scientist who creates a sapient creature in an unorthodox scientific experiment."
+    },
+    {
+      "id": 8,
+      "title": "Wuthering Heights",
+      "author": "Emily Brontë",
+      "image": "https://picsum.photos/907",
+      "year": 1847,
+      "page": 342,
+      "description": "Wuthering Heights is Emily Brontë's only novel, published in 1847 under the pseudonym 'Ellis Bell'. It is now considered one of the greatest novels in the English language."
+    },
+    {
+      "id": 9,
+      "title": "Lord of the Flies",
+      "author": "William Golding",
+      "image": "https://picsum.photos/908",
+      "year": 1954,
+      "page": 224,
+      "description": "Lord of the Flies is a novel by Nobel Prize-winning British author William Golding, first published in 1954. The book focuses on a group of British boys stranded on an uninhabited island and their disastrous attempt to govern themselves."
+    },
+    {
+      "id": 10,
+      "title": "The Picture of Dorian Gray",
+      "author": "Oscar Wilde",
+      "image": "https://picsum.photos/909",
+      "year": 1890,
+      "page": 254,
+      "description": "The Picture of Dorian Gray is a Gothic and philosophical novel by Oscar Wilde, first published in 1890. It is often considered to be Wilde's magnum opus and a classic of Western literature."
+    },
+    {
+      "id": 11,
+      "title": "One Hundred Years of Solitude",
+      "author": "Gabriel García Márquez",
+      "image": "https://picsum.photos/910",
+      "year": 1967,
+      "page": 417,
+      "description": "One Hundred Years of Solitude is a landmark 1967 novel by Colombian author Gabriel García Márquez. It is considered one of the greatest achievements in literature in the 20th century."
+    },
+    {
+      "id": 12,
+      "title": "Moby-Dick",
+      "author": "Herman Melville",
+      "image": "https://picsum.photos/911",
+      "year": 1851,
+      "page": 625,
+      "description": "Moby-Dick; or, The Whale is an 1851 novel by American writer Herman Melville. It is considered one of the Great American Novels and a treasure of world literature."
+    },
+    {
+      "id": 13,
+      "title": "The Adventures of Huckleberry Finn",
+      "author": "Mark Twain",
+      "image": "https://picsum.photos/912",
+      "year": 1884,
+      "page": 366,
+      "description": "Adventures of Huckleberry Finn is a novel by Mark Twain, first published in the United Kingdom in December 1884. It is among the first major American novels to be written throughout in vernacular English, characterized by local color regionalism."
+    },
+    {
+      "id": 14,
+      "title": "Brave New World",
+      "author": "Aldous Huxley",
+      "image": "https://picsum.photos/913",
+      "year": 1932,
+      "page": 311,
+      "description": "Brave New World is a dystopian novel by English author Aldous Huxley, written in 1931 and published in 1932. Largely set in a futuristic World State, whose citizens are environmentally engineered into an intelligence-based social hierarchy."
+    },
+    {
+      "id": 15,
+      "title": "Crime and Punishment",
+      "author": "Fyodor Dostoevsky",
+      "image": "https://picsum.photos/914",
+      "year": 1866,
+      "page": 551,
+      "description": "Crime and Punishment is a novel by the Russian author Fyodor Dostoevsky. It was first published in the literary journal The Russian Messenger in twelve monthly installments during 1866."
+    },
+    {
+      "id": 16,
+      "title": "The Hobbit",
+      "author": "J.R.R. Tolkien",
+      "image": "https://picsum.photos/915",
+      "year": 1937,
+      "page": 310,
+      "description": "The Hobbit, or There and Back Again is a fantasy novel by English author J.R.R. Tolkien. It was published on 21 September 1937 to wide critical acclaim."
+    },
+    {
+      "id": 17,
+      "title": "Walden",
+      "author": "Henry David Thoreau",
+      "image": "https://picsum.photos/916",
+      "year": 1854,
+      "page": 342,
+      "description": "Walden, or Life in the Woods is a reflection upon simple living in natural surroundings. The work is part personal declaration of independence, social experiment, voyage of spiritual discovery, satire, and manual for self-reliance."
+    },
+    {
+      "id": 18,
+      "title": "The Old Man and the Sea",
+      "author": "Ernest Hemingway",
+      "image": "https://picsum.photos/917",
+      "year": 1952,
+      "page": 127,
+      "description": "The Old Man and the Sea is a short novel written by the American author Ernest Hemingway in 1951 in Bimini, Bahamas, and published in 1952. It was the last major work of fiction written by Hemingway."
+    },
+    {
+      "id": 19,
+      "title": "Moby-Dick",
+      "author": "Herman Melville",
+      "image": "https://picsum.photos/918",
+      "year": 1851,
+      "page": 625,
+      "description": "Moby-Dick; or, The Whale is an 1851 novel by American writer Herman Melville. It is considered one of the Great American Novels and a treasure of world literature."
+    },
+    {
+      "id": 20,
+      "title": "Emma",
+      "author": "Jane Austen",
+      "image": "https://picsum.photos/919",
+      "year": 1815,
+      "page": 474,
+      "description": "Emma is a novel by Jane Austen, first published in December 1815, about the perils of misconstrued romance. The novel was first published in December 1815."
+    },
+    {
+      "id": 21,
+      "title": "The Bell Jar",
+      "author": "Sylvia Plath",
+      "image": "https://picsum.photos/920",
+      "year": 1963,
+      "page": 234,
+      "description": "The Bell Jar is the only novel written by the American writer and poet Sylvia Plath. Originally published under the pseudonym 'Victoria Lucas' in 1963."
+    },
+    {
+      "id": 22,
+      "title": "Anna Karenina",
+      "author": "Leo Tolstoy",
+      "image": "https://picsum.photos/921",
+      "year": 1877,
+      "page": 964,
+      "description": "Anna Karenina is a novel by the Russian author Leo Tolstoy, first published in book form in 1878. It is widely regarded as a pinnacle in realist fiction."
+    },
+    {
+      "id": 23,
+      "title": "Great Expectations",
+      "author": "Charles Dickens",
+      "image": "https://picsum.photos/922",
+      "year": 1861,
+      "page": 505,
+      "description": "Great Expectations is the thirteenth novel by Charles Dickens and his penultimate completed novel, which depicts the education of an orphan nicknamed Pip."
+    },
+    {
+      "id": 24,
+      "title": "Slaughterhouse-Five",
+      "author": "Kurt Vonnegut",
+      "image": "https://picsum.photos/923",
+      "year": 1969,
+      "page": 275,
+      "description": "Slaughterhouse-Five, or The Children's Crusade: A Duty-Dance with Death is a science fiction-infused anti-war novel by Kurt Vonnegut, first published in 1969."
+    },
+    {
+      "id": 25,
+      "title": "Frankenstein",
+      "author": "Mary Shelley",
+      "image": "https://picsum.photos/924",
+      "year": 1818,
+      "page": 280,
+      "description": "Frankenstein; or, The Modern Prometheus is a novel written by English author Mary Shelley that tells the story of Victor Frankenstein, a young scientist who creates a sapient creature in an unorthodox scientific experiment."
+    },
+    {
+      "id": 26,
+      "title": "Heart of Darkness",
+      "author": "Joseph Conrad",
+      "image": "https://picsum.photos/925",
+      "year": 1899,
+      "page": 78,
+      "description": "Heart of Darkness is a novella by Joseph Conrad. The story centres on Charles Marlow, who narrates most of the book, an Englishman who takes a foreign assignment from a Belgian trading company as a ferry-boat captain in Africa."
+    },
+    {
+      "id": 27,
+      "title": "The Stranger",
+      "author": "Albert Camus",
+      "image": "https://picsum.photos/926",
+      "year": 1942,
+      "page": 123,
+      "description": "The Stranger is a novel by Albert Camus, published in 1942. Its theme and outlook are often cited as examples of Camus's philosophy of the absurd and existentialism."
+    },
+    {
+      "id": 28,
+      "title": "The Road",
+      "author": "Cormac McCarthy",
+      "image": "https://picsum.photos/927",
+      "year": 2006,
+      "page": 287,
+      "description": "The Road is a 2006 post-apocalyptic novel by American writer Cormac McCarthy. The book details the journey of a father and his young son over a period of several months across a landscape blasted by an unspecified cataclysm that has destroyed most of civilization."
+    },
+    {
+      "id": 29,
+      "title": "The Brothers Karamazov",
+      "author": "Fyodor Dostoevsky",
+      "image": "https://picsum.photos/928",
+      "year": 1880,
+      "page": 796,
+      "description": "The Brothers Karamazov is a novel by the Russian author Fyodor Dostoevsky, first published in 1880. It is considered one of the greatest literary works in history and explores questions of faith, reason, and morality through the tumultuous lives of three brothers."
+    },
+    {
+      "id": 31,
+      "title": "Don Quixote",
+      "author": "Miguel de Cervantes",
+      "image": "https://picsum.photos/930",
+      "year": 1605,
+      "page": 863,
+      "description": "Don Quixote is a Spanish novel by Miguel de Cervantes. It was published in two parts, in 1605 and 1615, and is considered one of the greatest works of fiction ever written."
+    },
+    {
+      "id": 32,
+      "title": "The Scarlet Letter",
+      "author": "Nathaniel Hawthorne",
+      "image": "https://picsum.photos/931",
+      "year": 1850,
+      "page": 238,
+      "description": "The Scarlet Letter: A Romance is a work of historical fiction by American author Nathaniel Hawthorne, published in 1850. Set in Puritan Massachusetts Bay Colony during the years 1642 to 1649, it tells the story of Hester Prynne, who conceives a daughter through an affair and struggles to create a new life of repentance and dignity."
+    },
+    {
+      "id": 33,
+      "title": "The Count of Monte Cristo",
+      "author": "Alexandre Dumas",
+      "image": "https://picsum.photos/932",
+      "year": 1844,
+      "page": 1276,
+      "description": "The Count of Monte Cristo is an adventure novel by French author Alexandre Dumas, père. It is one of the author's most popular works, along with The Three Musketeers."
+    },
+    {
+      "id": 34,
+      "title": "Les Misérables",
+      "author": "Victor Hugo",
+      "image": "https://picsum.photos/933",
+      "year": 1862,
+      "page": 1463,
+      "description": "Les Misérables is a French historical novel by Victor Hugo, first published in 1862, that is considered one of the greatest novels of the 19th century. The novel follows the lives and interactions of several characters, focusing on the struggles of ex-convict Jean Valjean and his experience of redemption."
+    },
+    {
+      "id": 35,
+      "title": "War and Peace",
+      "author": "Leo Tolstoy",
+      "image": "https://picsum.photos/934",
+      "year": 1869,
+      "page": 1225,
+      "description": "War and Peace is a novel by the Russian author Leo Tolstoy, published serially, then in its entirety in 1869. It is regarded as one of Tolstoy's finest literary achievements and a classic of world literature."
+    },
+    {
+      "id": 30,
+      "title": "Catch-22",
+      "author": "Joseph Heller",
+      "image": "https://picsum.photos/929",
+      "year": 1961,
+      "page": 453,
+      "description": "Catch-22 is a satirical novel by American author Joseph Heller, first published in 1961. It is set during World War II and follows Captain John Yossarian and a group of airmen in the fictional 256th Squadron."
+    }
+  ]
+}
